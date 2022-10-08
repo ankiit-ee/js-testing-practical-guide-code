@@ -35,3 +35,8 @@ Mocks & Spies
 Tests & The DOM
 
 
+Testing setup
+-Test runner and assertion Library
+-JEST
+*** JEST does not work well with ES Modules
+So, use Vitest
