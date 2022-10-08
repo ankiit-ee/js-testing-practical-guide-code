@@ -40,3 +40,7 @@ Testing setup
 -JEST
 *** JEST does not work well with ES Modules
 So, use Vitest
+
+Basics
+-Creating unit tests
+-AAA Arrange Act Assert
